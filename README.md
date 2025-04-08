@@ -13,3 +13,9 @@ assets/conf/
 
 Use clientpatcher to patch your client to http://localhost:5000/conf/ (Prev /.com/conf)
 
+
+
+
+## This server is currently not usable! 
+This is still a work-in-progress base server and will not let you load into the game until we fix client patching
+
