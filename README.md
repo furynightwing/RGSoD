@@ -1,4 +1,4 @@
-## RGSOD School of Dragons Emulator
+## RGSOD School of Dragons Emulator (PY Server)
 
 To run install requirements from requirements.txt, then run >Python main.py
 
